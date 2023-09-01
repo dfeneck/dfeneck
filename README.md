@@ -1,6 +1,6 @@
 # 👋 Hiya, I'm Fen!
 
-[![](https://img.shields.io/badge/-Programmer-red?style=for-the-badge)]() [![](https://img.shields.io/badge/-Designer-blue?style=for-the-badge)]() [![](https://img.shields.io/badge/-Gamer-grey?style=for-the-badge)](https://steamcommunity.com/id/Dfeneck/)
+[![](https://img.shields.io/badge/-Programmer-red?style=for-the-badge)]() [![](https://img.shields.io/badge/-Designer-blue?style=for-the-badge)]() [![](https://img.shields.io/badge/-Gamer-grey?style=for-the-badge)](https://steamcommunity.com/id/Dfeneck/) [![](https://img.shields.io/badge/-Lover-pink?style=for-the-badge)]()
 
 I'm actively looking for:
 - like-minded **friends**
@@ -22,6 +22,18 @@ Feel free to contact me on [Discord](https://discord.com/users/47536334279448987
 ![C](https://img.shields.io/badge/C-%23aabbce.svg?logo=c&logoColor=white)&nbsp;\
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=PostgreSQL&logoColor=white)
+
+---
+
+## ✨ Projects
+### ![The Motherland](http://themotherland.ddns.net:8317/)
+I run and maintain a small Australian Minecraft server. Come play with us.
+
+### ![Gemstones Canberra](http://feneck.net:8317/gems/)
+I created and maintain a local gemstones web store. The design is exactly as requested by the client, not mine.
+
+### 3Fault
+I operate a small games company. We are currently working on something new that we're not ready to show off yet.
 
 ---
 
