@@ -7,7 +7,7 @@ I'm actively looking for:
 - interesting **projects**
 - **business** opportunities
 
-Feel free to contact me via [Discord](https://discord.com) (_feneck) or [Steam](https://steamcommunity.com/id/Dfeneck/). I'm **happy** to hear from **YOU!** 💕
+Feel free to contact me on [Discord](https://discord.com/users/475363342794489877) or [Steam](https://steamcommunity.com/id/Dfeneck/). I'm **happy** to hear from **YOU!** 💕
 
 ---
 
