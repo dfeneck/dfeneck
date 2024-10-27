@@ -1,6 +1,6 @@
 # 👋 Hiya, I'm Fen!
 
-[![](https://img.shields.io/badge/-Programmer-red?style=for-the-badge)]() [![](https://img.shields.io/badge/-Designer-blue?style=for-the-badge)]() [![](https://img.shields.io/badge/-Gamer-grey?style=for-the-badge)](https://steamcommunity.com/id/Dfeneck/) [![](https://img.shields.io/badge/-Lover-pink?style=for-the-badge)]()
+[![](https://img.shields.io/badge/-💻_Programmer-red?style=for-the-badge)]() [![](https://img.shields.io/badge/-✏️_Designer-blue?style=for-the-badge)]() [![](https://img.shields.io/badge/-🎮_Gamer-emerald?style=for-the-badge)](https://steamcommunity.com/id/Dfeneck/)
 
 I'm actively looking for:
 - like-minded **friends**
@@ -9,7 +9,7 @@ I'm actively looking for:
 
 Feel free to contact me on [Discord](https://discord.com/users/475363342794489877) or [Steam](https://steamcommunity.com/id/Dfeneck/). I'm **happy** to hear from **YOU!** 💕
 
----
+
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
